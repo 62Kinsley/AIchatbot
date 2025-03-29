@@ -8,17 +8,17 @@ Chat Functionality: Implements a basic AI response mechanism (can be integrated 
 
 API Endpoints: Provides RESTful API endpoints (using Express or similar) for chat and database operations.
 
-# Frontend: Offers a web-based interface to interact with the chatbot in real time.
+Frontend: Offers a web-based interface to interact with the chatbot in real time.
 
-# backend: Contains server-side code, including the Express server and database logic.
+backend: Contains server-side code, including the Express server and database logic.
 
-# frontend: Contains client-side code. Could be a simple HTML/JS page or a framework-based project (React, Vue, etc.).
+frontend: Contains client-side code. Could be a simple HTML/JS page or a framework-based project (React, Vue, etc.).
 
-# initDB.js: Automatically runs on server start (or can be run separately) to initialize database tables.
+initDB.js: Automatically runs on server start (or can be run separately) to initialize database tables.
 
-# dbHandler.js: Encapsulates CRUD operations for the database.
+dbHandler.js: Encapsulates CRUD operations for the database.
 
-# #Installation
+#Installation
 Clone the repository
 
 bash
