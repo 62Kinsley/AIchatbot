@@ -1,5 +1,5 @@
 # AIchatbot
-A simple AI Chatbot built with Node.js and SQLite. This project includes a backend and (optionally) a frontend, uses a database to store user information, and provides endpoints for AI-driven chat functionality.
+A simple AI Chatbot built with Node.js and SQLite. This project includes a backend and a frontend, uses a database to store user information, and provides endpoints for AI-driven chat functionality.
 
 # Features
 Database Initialization: Uses SQLite to create necessary tables (e.g., People, Sessions) on startup.
